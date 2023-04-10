@@ -6,5 +6,15 @@ public class Demo {
 		System.out.println("last one..");
 
 	}
+	public void add(){
+		int a=7;
+		int b=9;
+		int result =a+b;
+	}
+    public void diff(){
+    	int a=7;
+		int b=9;
+		int result =a-b;
+    }
 
 }
